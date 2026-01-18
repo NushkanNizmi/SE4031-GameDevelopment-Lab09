@@ -1,4 +1,4 @@
-# 🧪 LAB 09 (2 Hours) — Final Integration: Exit Door + Reset + Full Demo
+ # 🧪 LAB 09 (2 Hours) — Final Integration: Exit Door + Reset + Full Demo
 
 
 ---
